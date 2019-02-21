@@ -6,7 +6,7 @@ import java.io.File;
 import java.io.IOException;
 
 public class main {
-    private static String clientDataRoot = "E:/Games/SWG-Extracted/";
+    private static String clientDataRoot = "E:/Games/SWG-Extracted/"; // this should be the folder where the client side files are expanded into.
     public static void main(String[] args)
     {
         if(args != null){
